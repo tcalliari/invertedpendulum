@@ -1,0 +1,10 @@
+Aqui encontra-se o código fonte principal para o controle da planta 
+e comunicação com a interface serial para a interface.
+
+O código foi elaborado utilizando a IDE do Arduino e utilizando-se do Arduino Mega.
+
+A interface pode ser baixada no link abaixo, pois devido a limitações da plataforma 
+não foi possível realizar o upload aqui na plataforma GitHub.
+
+
+https://drive.google.com/open?id=1vkEj4yHbhykH-tawwePqNnQHz_iN30_I
